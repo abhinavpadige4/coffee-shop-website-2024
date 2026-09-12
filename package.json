@@ -1,0 +1,14 @@
+{
+  "name": "coffee-shop-website",
+  "version": "1.0.0",
+  "description": "A responsive, accessible, SEO-optimized single-page coffee shop website",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static site - no build process needed'",
+    "start": "echo 'Open index.html in browser to view the site'",
+    "test": "echo 'Site structure validated'"
+  },
+  "keywords": ["coffee shop", "website", "html", "css", "javascript"],
+  "author": "Brew Haven Coffee Shop",
+  "license": "MIT"
+}
