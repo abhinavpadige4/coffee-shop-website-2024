@@ -78,6 +78,8 @@ coffee-shop-website-2024/
 
 ## Deployment
 
+This site is deployed on Vercel at: https://coffee-shop-website-2024.vercel.app
+
 This site is designed to be deployed on any static hosting service:
 - GitHub Pages
 - Netlify
